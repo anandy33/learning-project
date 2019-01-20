@@ -3,6 +3,7 @@
 
 #include<stdio.h>
 #include<stdlib.h>
+#include<stdbool.h>
 
 struct node
 {
@@ -12,6 +13,8 @@ struct node
 };
 
 void inorder_non_recursive(struct node *);
+void preorder_non_recursive(struct node *);
+void iterative_diagonal_traversal(struct node *root);
 
 #endif
 

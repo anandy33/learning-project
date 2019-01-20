@@ -6,7 +6,7 @@ struct sNode
 	struct sNode *next;
 };
 
-void push(struct sNode **st, struct node *inode)
+static void push(struct sNode **st, struct node *inode)
 {
 	struct sNode *newNode = (struct sNode *)malloc(sizeof(struct sNode));
 
@@ -22,14 +22,14 @@ void push(struct sNode **st, struct node *inode)
 	(*st) = newNode;
 }
 
-int isEmpty(struct sNode *st)
+static int isEmpty(struct sNode *st)
 {
 	if(st == NULL)
 		return 1;
 	return 0;
 }
 
-struct node *pop(struct sNode **st)
+static struct node *pop(struct sNode **st)
 {
 	struct sNode *Top = (*st);
 	struct node *inode = Top->inode;
@@ -39,7 +39,7 @@ struct node *pop(struct sNode **st)
 	return inode;
 }
 
-static void inorder_non_recursive(struct node *root)
+void inorder_non_recursive(struct node *root)
 {
 	struct node *current = root;
 	struct sNode *st = NULL;

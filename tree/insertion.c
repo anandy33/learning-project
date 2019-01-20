@@ -49,6 +49,12 @@ int main()
 	printf("\nnon recursive inorder traversal\n");
 	inorder_non_recursive(root);
 
+	printf("\nnon-recursive preorder traversal\n");
+	preorder_non_recursive(root);
+
+	printf("\ndiagonal tree traversal\n");
+	iterative_diagonal_traversal(root);
+
 	printf("\n");
 
     return 0;
