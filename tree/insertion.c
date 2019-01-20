@@ -36,6 +36,7 @@ void inorder(struct node *root)
 
 int main()
 {
+	atexit(report_mem_leak);
 	struct node *root = NULL;
 	root = insert(root, 50);
 	insert(root, 40);

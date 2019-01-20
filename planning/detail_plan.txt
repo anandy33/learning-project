@@ -1,0 +1,28 @@
+
+21january
+...............
+			Project Scope
+			.............
+1) Start digging indepth on yang boundaries in project.
+
+2) First make blueprint of project and its scope.
+
+3) What to cover in yang and what to not.
+
+4) Understand code in depth.
+
+
+			Problem Solving
+			...............
+1) Daily practice data structure and algorithms problem.
+
+2) 
+
+			Design
+			......
+1) Focus on design questions.
+2)HOw to think about design questions.
+
+			Python
+			......
+
