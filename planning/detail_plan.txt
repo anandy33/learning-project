@@ -1,28 +1,27 @@
 
-21january
-...............
-			Project Scope
-			.............
-1) Start digging indepth on yang boundaries in project.
+....................................
+			23January2019
+"Only way to remove stress is to prepare in advance"
+....................................
 
-2) First make blueprint of project and its scope.
+First  Improvement Area
+	1) Wake up daily at 6.00 A.M
+	2) From 6.30 to 8.00 Exercise daily.
 
-3) What to cover in yang and what to not.
+Second Improvement Area
+	1) Follow healthy and control diet.
+	2) Regular checkup and follow ups
 
-4) Understand code in depth.
+Third Improvement Area
+	1) Daily up-to-date of project work.
+	2) Always first complete assigned task.
+	3) Get overall knowledge of project work.
+	4) Prepare on advance so that so that get all idea of how things are working.
 
+Fourth Improvement Area
+	1) Improve technical skills
+	2) Focus on new technologies like Python
+	3) Continues do data-structure, Algorithms and Problem Soving questions.
 
-			Problem Solving
-			...............
-1) Daily practice data structure and algorithms problem.
-
-2) 
-
-			Design
-			......
-1) Focus on design questions.
-2)HOw to think about design questions.
-
-			Python
-			......
+Sixth Improvement Area
 
